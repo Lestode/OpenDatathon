@@ -1,5 +1,6 @@
 # Chernoff Bound Team: Datathon 2025
 Please find the report in "Datathon 2025_ Sentient Challenge_ Chernoff Bound (1).pdf".
+Please find our submission under submission.jsonl
 # 🔍OpenDeepSearch: Democratizing Search with Open-source Reasoning Models and Reasoning Agents 🚀
 
 <!-- markdownlint-disable first-line-h1 -->
